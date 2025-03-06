@@ -11,5 +11,9 @@ git checkout main
 git merge <branch name>  
 git merge --squash<branch name>  
 git remote add origin https://github.com/ankit2113141/hellogit.git  
-git push -u origin main
+git push -u origin main  
+git pull --rebase origin main  
+git push origin main  
+
+
  
