@@ -1,9 +1,9 @@
 common command for git:-  
 
-git init
-git add .
-git commit -m"give message for commit"
-git status
+git init  
+git add .  
+git commit -m"give message for commit"  
+git status  
 git log
 git log --oneline
 git checkout -b <feature name/branch name>
