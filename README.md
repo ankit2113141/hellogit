@@ -1,4 +1,5 @@
-common command for git:- \n
+common command for git:-  
+
 git init
 git add .
 git commit -m"give message for commit"
